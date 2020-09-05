@@ -1,9 +1,15 @@
 <img src="https://github.com/ptkpyitheim/ptkpyitheim/blob/master/github_readme_cover.png?raw=true">
 
-### Hello there! <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+  <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+</p>
 
-## Summary of my projects
-
+<h3 align="center">             
+  Hello there!
+</h3> 
+           
 
 
 <!--
