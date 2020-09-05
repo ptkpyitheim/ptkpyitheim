@@ -1,10 +1,8 @@
 <img src="https://github.com/ptkpyitheim/ptkpyitheim/blob/master/github_readme_cover.png?raw=true">
 
-### Look who found me! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Oh well Hello there! <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+### Hello there! <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
 
-
-
+## Summary of my projects
 
 
 
