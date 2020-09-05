@@ -1,4 +1,6 @@
-### Look who found me! 👀 Oh well Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Look who found me! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Oh well Hello there! <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
+
 
 <!--
 **ptkpyitheim/ptkpyitheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
