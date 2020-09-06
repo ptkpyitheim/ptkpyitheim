@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank">
    <img src="linkedin.svg" alt="LinkedIn icon" width="30px">
   </a>
+  <a href="https://github.com/ptkpyitheim" target="_blank">
+   <img src="linkedin.svg" alt="GitHub icon" width="30px">
+  </a>
 </p>
            
 
