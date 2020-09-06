@@ -11,7 +11,9 @@
 </h3>
 
 <p align="center">
-   ![LinkedIn](linkedin.svg)
+  <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank">
+   <img src="linkedin.svg" alt="LinkedIn icon" width="30px">
+  </a>
 </p>
            
 
