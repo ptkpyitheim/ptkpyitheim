@@ -7,8 +7,15 @@
 </p>
 
 <h3 align="center">             
-  Hello there!
+  Hello there! Check out my skills and projects below!
 </h3>
+
+
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkpyitheim&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
+</p>
+
+
 
 <!--
 <p align="center">
