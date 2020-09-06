@@ -10,6 +10,7 @@
   Hello there!
 </h3>
 
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank" style="margin-right: 20px;">
    <img src="./linkedin.svg" alt="LinkedIn icon" width="30px">
@@ -24,6 +25,7 @@
    <img src="./github.svg" alt="GitHub icon" width="30px">
   </a>
 </p>
+-->
            
 
 
