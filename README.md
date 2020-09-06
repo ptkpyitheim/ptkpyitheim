@@ -8,7 +8,11 @@
 
 <h3 align="center">             
   Hello there!
-</h3> 
+</h3>
+
+<p align="center">
+   ![LinkedIn](linkedin.svg)
+</p>
            
 
 
