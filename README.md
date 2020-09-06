@@ -11,11 +11,18 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank">
+  <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank" style="margin-right: 10px;">
    <img src="linkedin.svg" alt="LinkedIn icon" width="30px">
   </a>
-  <a href="https://github.com/ptkpyitheim" target="_blank">
-   <img src="linkedin.svg" alt="GitHub icon" width="30px">
+  <a href="http://devpost.com/ptkpyitheim" target="_blank" style="margin-right: 10px;">
+   <img src="devpost.png" alt="DevPost icon" width="30px">
+  </a>
+  <a href="https://pyitheimkyaw.com/" target="_blank" style="margin-right: 10px;">
+   <img src="personal.png" alt="Personal icon" width="30px">
+  </a>
+  <a href="https://github.com/ptkpyitheim" target="_blank" style="margin-right: 10px;">
+   <img src="github.svg" alt="GitHub icon" width="30px">
+    <span> &larr; Click to see recursion </span>
   </a>
 </p>
            
