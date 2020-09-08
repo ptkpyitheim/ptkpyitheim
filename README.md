@@ -13,6 +13,7 @@
 <p align="center">
    <b>You can also reach me here:</b><br>
    <img src="linkedin.png" width="30px">
+     <img src="personal.png" width="30px">
 
   <a href="http://pyitheimkyaw.com/" target="_blank">Personal Website</a>
    | 
