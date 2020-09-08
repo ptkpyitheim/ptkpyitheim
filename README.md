@@ -6,9 +6,9 @@
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
 </p>
 
-<h3 align="center">             
+<h2 align="center">             
   Hello there!
-</h3>
+</h2>
 
 <p align="center">
    <b>You can also reach me here:</b><br>
@@ -19,34 +19,13 @@
   <a href="http://devpost.com/ptkpyitheim" target="_blank">Devpost</a>
 </p>
 
-<h3 align="center>
+<h2 align="center">
   Check out my skills and projects below!
-</h3>
+</h2>
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkpyitheim&title_color=00FFB5&bg_color=273036&text_color=ffffff" />
 </p>
-
-
-
-<!--
-<p align="center">
-  <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank" style="margin-right: 20px;">
-   <img src="./linkedin.svg" alt="LinkedIn icon" width="30px">
-  </a>
-  <a href="http://devpost.com/ptkpyitheim" target="_blank" style="margin-right: 20px;">
-   <img src="./devpost.png" alt="DevPost icon" width="30px">
-  </a>
-  <a href="https://pyitheimkyaw.com/" target="_blank" style="margin-right: 20px;">
-   <img src="./personal.png" alt="Personal icon" width="30px" style="margin-right: 20px;">
-  </a>
-  <a href="https://github.com/ptkpyitheim" target="_blank">
-   <img src="./github.svg" alt="GitHub icon" width="30px">
-  </a>
-</p>
--->
-           
-
 
 <!--
 **ptkpyitheim/ptkpyitheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
