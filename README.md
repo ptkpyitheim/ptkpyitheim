@@ -6,9 +6,9 @@
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
 </p>
 
-<h2 align="center">             
+<h1 align="center">             
   Hello there!
-</h2>
+</h1>
 
 <p align="center">
    <b>You can also reach me here:</b> </br> </br>
