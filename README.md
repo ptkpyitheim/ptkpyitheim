@@ -7,10 +7,16 @@
 </p>
 
 <h3>             
-  Hello there! You can also reach me here! 
+  Hello there!  
 </h3>
 
+You can also reach me here:
+</br>
+<a href="http://pyitheimkyaw.com/" target="_blank">Personal Website</a>
+ | 
 <a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank">LinkedIn</a>
+ | 
+<a href="http://devpost.com/ptkpyitheim" target="_blank">Devpost</a>
 
 
 <h3 align="center>
