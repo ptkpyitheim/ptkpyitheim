@@ -12,8 +12,7 @@
 
 <p align="center">
    <b>You can also reach me here:</b><br>
-   <img src="linkedin.png" width="30px">
-     <img src="personal.png" width="30px">
+   <img src="https://user-images.githubusercontent.com/36285777/92535735-89d9e580-f1fd-11ea-9203-281cbda06827.png" width="30px">
 
   <a href="http://pyitheimkyaw.com/" target="_blank">Personal Website</a>
    | 
