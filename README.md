@@ -21,17 +21,17 @@
   <a href="http://github.com/ptkpyitheim" target="_blank">Recursion</a>
 </p>
 
-<h2 align="center">
+<h2>
   Summary of my projects
 </h2>
 
-<h3 align="center">
+<h3>
   Summer 2020
 </h3>
 
-<p align="center">
-  <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
-  <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
+<p>
+  - <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
+  - <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
 
 </p>
 
