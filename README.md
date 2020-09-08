@@ -1,13 +1,20 @@
 <img src="https://github.com/ptkpyitheim/ptkpyitheim/blob/master/github_readme_cover.png?raw=true">
 
-<p align="center">
+<p>
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
 </p>
 
-<h3 align="center">             
-  Hello there! Check out my skills and projects below!
+<h3>             
+  Hello there! You can also reach me here! 
+</h3>
+
+<a href="https://www.linkedin.com/in/ptkpyitheim/" target="_blank">LinkedIn</a>
+
+
+<h3 align="center>
+  Check out my skills and projects below!
 </h3>
 
 
