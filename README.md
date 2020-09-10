@@ -23,13 +23,33 @@
 </h2>
 
 <h3>
-  Summer 2020
+  Work for Summer 2020
 </h3>
 
 <p>
-  - <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
-  - <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
+  - 👥 <b><a href="https://aywd-3be6b.web.app/" target="_blank">Admin Management React Web App </a>(public repo not available)</b></br>
+  - 💰 <b><a href="https://apps.apple.com/us/app/id1529671472" target="_blank">E-Commerce Ayeyarwady Cooking Oil React Native Shopping App </a>(public repo not available)</b></br>
+</p>
 
+<h3>
+  Projects at WashU
+</h3>
+
+<p>
+  - ❗ <b><a href="https://github.com/ptkpyitheim/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
+  - 🐻 <b><a href="https://ptkpyitheim.github.io/BearFoundWeb/" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
+  - 🚩 <b><a href="https://ptkpyitheim.github.io/ctf-challenge/#/" target="_blank">Capture The Flag Challenge </a> - built for Web Dev students as the Head TA</b></br>
+  - 🚗 <b><a href="https://github.com/ptkpyitheim/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
+  - 📷 <b><a href="https://ptkpyitheim.github.io/Instagram-Clone/" target="_blank">Instagram Clone</a></b></br>
+</p>
+
+<h3>
+  Hackathons
+</h3>
+
+<p>
+  - 🍊 <b><a href="https://github.com/ptkpyitheim/eHacks_Kumquat" target="_blank">Kumquat - eHacks </a></b></br>
+  - 💡 <b><a href="https://github.com/ptkpyitheim/Toor_PennAppsXX" target="_blank">Toor - PennAppsXX </a></b></br>
 </p>
 
 <p align="center">
