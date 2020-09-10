@@ -19,7 +19,7 @@
 </p>
 
 <h2>
-  Summary of my projects
+  Project Highlights
 </h2>
 
 <h3>
