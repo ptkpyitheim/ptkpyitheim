@@ -36,6 +36,9 @@
 </h3>
 
 <p>
+  - 🏀 <b><a href="https://washuvis.github.io/goat/" target="_blank">The Best Of Three Legends </a>- Ulitmate data-driven visualization tool
+for analyzing the greatness of Kobe Bryant, Michael Jordan, and Lebron James</b></br>
+  - 🍜 <b><a href="https://thecookbook-b1469.web.app/" target="_blank">TheCookBook </a>- Food recipe social media web app with mobile interfact</b></br>
   - ❗ <b><a href="https://github.com/ptkpyitheim/Accio" target="_blank">Accio </a>- The Location-based Interest Groups App</b></br>
   - 🐻 <b><a href="https://ptkpyitheim.github.io/BearFoundWeb/" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
   - 🚩 <b><a href="https://ptkpyitheim.github.io/ctf-challenge/#/" target="_blank">Capture The Flag Challenge </a> - built for Web Dev students as the Head TA</b></br>
