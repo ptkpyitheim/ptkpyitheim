@@ -42,7 +42,6 @@ for analyzing the greatness of Kobe Bryant, Michael Jordan, and Lebron James</b>
   - 🐻 <b><a href="https://ptkpyitheim.github.io/BearFoundWeb/" target="_blank">BearFound </a>- Lost and Found app for WashU students</b></br>
   - 🚩 <b><a href="https://ptkpyitheim.github.io/ctf-challenge/#/" target="_blank">Capture The Flag Challenge </a> - built for Web Dev students as the Head TA</b></br>
   - 🚗 <b><a href="https://github.com/ptkpyitheim/wushare" target="_blank">WuShare </a>- Carpooling web app for WashU students</b></br>
-  - 📷 <b><a href="https://ptkpyitheim.github.io/Instagram-Clone/" target="_blank">Instagram Clone</a></b></br>
 </p>
 
 <h3>
