@@ -1,4 +1,3 @@
-<img src="https://github.com/ptkpyitheim/ptkpyitheim/blob/master/GHRMCover.png?raw=true">
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/35/animated-eye-image-0012.gif" width="30px">
